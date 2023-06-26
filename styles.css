@@ -1,0 +1,32 @@
+#Jwd {
+    font-family: Agdasima;
+    color: black;
+    display: inline-block;
+    position: static;
+
+}
+
+#Jwd2 {
+    font-family: Arial;
+    color: Royalblue;
+    display: inline-block;
+    position: static;
+}
+
+#Jwd3 {
+    Font-family: Arial;
+    color: pink;
+    display: inline-block;
+    position: static;
+}
+
+#Jwd4 {
+    Font-family: Fasthand;
+    color: blue;
+    display: inline-block;
+    position: static;
+}
+
+body {
+    background-color: plum;
+}
